@@ -27,7 +27,7 @@ app.use(express.json())
 app.use(cookieParser())
 app.use(
   cors({
-    origin: "https://edtech-studynotion.netlify.app",
+    origin: "*",
     credentials: true,
   })
 )
