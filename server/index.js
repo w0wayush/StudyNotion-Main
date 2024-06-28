@@ -27,10 +27,30 @@ app.use(express.json())
 app.use(cookieParser())
 app.use(
   cors({
-    origin: "https://edtech-studynotion.netlify.app",
+    // origin: "https://edtech-studynotion.netlify.app",
+    origin: "*",
     credentials: true,
   })
 )
+
+// app.use((req, res, next) => {
+//   res.setHeader(
+//     "Access-Control-Allow-Origin",
+//     "https://edtech-studynotion.netlify.app"
+//   )
+//   // Additional headers for more control
+//   res.setHeader(
+//     "Access-Control-Allow-Headers",
+//     "Origin, X-Requested-With, Content-Type, Accept"
+//   )
+//   res.setHeader(
+//     "Access-Control-Allow-Methods",
+//     "GET, POST, PUT, DELETE, OPTIONS"
+//   )
+//   res.setHeader("Access-Control-Allow-Credentials", "true")
+//   next()
+// })
+
 app.use(
   fileUpload({
     useTempFiles: true,

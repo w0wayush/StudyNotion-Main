@@ -65,9 +65,11 @@ exports.capturePayment = async (req, res) => {
     })
   } catch (error) {
     console.log(error)
-    res
-      .status(500)
-      .json({ success: false, message: "Could not initiate order." })
+    res.status(500).json({
+      success: false,
+      message: "Could not initiate order.",
+      // error: error.message,
+    })
   }
 }
 
