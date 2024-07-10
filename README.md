@@ -1,14 +1,17 @@
-# StudyNotion Edtech Project
-
-![StudyNotion Logo](./public/Logo-Full-Light.png)
+# ![StudyNotion Logo](./public/Logo-Full-Light.png) Ed-tech Project
 
 ## Introduction
 
-StudyNotion is a groundbreaking educational technology platform poised to redefine the way students, teachers, and lifelong learners engage with knowledge.
+StudyNotion is more than just an edtech platform; it's a commitment to the transformation of
+educational experiences. Our platform is a beacon of progress, offering learners a comprehensive suite of tools, resources, and features that cater to their diverse learning styles and goals. Whether you're mastering a subject, preparing for critical exams, or simply seeking to broaden your knowledge horizons, StudyNotion is here to guide you through your educational journey
 
 ## Introduction Video
 
-StudyNotion Website Video [here](./public/studynotion.mp4).
+<video width="600" controls>
+  <source src="./public/studynotion.mp4" type="video/mp4">
+  StudyNotion Website Video
+</video>
+ <!-- StudyNotion Website Video [here](./public/studynotion.mp4). -->
 
 ## Problem Statement
 
