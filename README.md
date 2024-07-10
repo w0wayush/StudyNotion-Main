@@ -1,4 +1,6 @@
-# ![StudyNotion Logo](./public/Logo-Full-Light.png) Ed-tech Project
+# StudyNotion Ed-tech Project
+
+![StudyNotion Logo](./public/Logo-Full-Light.png)
 
 ## Introduction
 
@@ -7,10 +9,8 @@ educational experiences. Our platform is a beacon of progress, offering learners
 
 ## Introduction Video
 
-<video width="600" controls>
-  <source src="./public/studynotion.mp4" type="video/mp4">
-  StudyNotion Website Video
-</video>
+https://github.com/w0wayush/StudyNotion-Main/assets/113545732/2d363edd-c040-4884-a714-3923f1555683
+
  <!-- StudyNotion Website Video [here](./public/studynotion.mp4). -->
 
 ## Problem Statement
