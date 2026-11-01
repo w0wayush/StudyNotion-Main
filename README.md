@@ -13,6 +13,14 @@ https://github.com/w0wayush/StudyNotion-Main/assets/113545732/2d363edd-c040-4884
 
  <!-- StudyNotion Website Video [here](./public/studynotion.mp4). -->
 
+## Tech Stacks
+
+- **Frontend**: HTML, JavaScript, React, Tailwind CSS, Bootstrap, Material UI
+- **Backend**: Node.js, Express, MongoDB
+- **State Management**: Redux
+- **Input Validation**: Zod
+- **Version Control**: Git, Github
+
 ## Problem Statement
 
 - **Challenges in Education**: Lack of personalization, adaptability, and limited access to quality resources.
